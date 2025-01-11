@@ -1,5 +1,7 @@
 # A Simple Login / Register in Flutter with Supabase Authentication
 
+A simple flutter login register application with the use of supabase authentication
+
 # Setup
 - Clone this repository using the command 
 `git clone https://github.com/efreetgaming/login_register_w_supabase_auth.git`
